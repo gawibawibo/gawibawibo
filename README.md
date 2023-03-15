@@ -1,4 +1,4 @@
-README 파일 제목은 gawibawibo repository로 하겠습니다. 근데 이제 private을 곁들인.
+README 파일 제모옥은 gawibawibo repository로 하겠습니다. 근데 이제 private을 곁들인.
 
 - 👋 Hi, I’m @gawibawibo
 - 👀 I’m interested in ...
